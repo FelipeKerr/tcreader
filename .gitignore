@@ -1,0 +1,25 @@
+# Compiled object files
+*.o 
+*.obj 
+
+# Executables
+tcreader
+*.out 
+*.exe
+
+# Libraries
+*.a
+*.so
+*.dylib
+
+# Temporary / backup files
+*~
+*.swp
+*.swo
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Ignore the compiled executable
+tcreader
